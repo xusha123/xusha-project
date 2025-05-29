@@ -1,0 +1,2 @@
+# xusha-project
+AI project
